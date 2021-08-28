@@ -273,7 +273,9 @@ button {
 	transform: scale(1.2);
 }
 
-
+.ico{
+	width: 7em;
+}
 
 /*----------footer--------------*/
 footer{
