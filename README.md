@@ -1,2 +1,1 @@
-# shstoursandsafaris
- 
+# shsts.github.io
